@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb89c4f7586081f65820e9a6d80deaf2d77766dc7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xc97f3973321561163bf67d0f2c4ba6be294104b3ec35c8d749e6a9aed63847af",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dead Fish Club",
+  "SYMBOL": "DFCNFT",
+  "MAX_SUPPLY": 5008,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dead-fish-club",
+  "SHOW_BACKGROUND": true
+}
